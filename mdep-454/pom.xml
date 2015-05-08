@@ -42,13 +42,12 @@ under the License.
       <version>4.1.0.RELEASE</version>
     </dependency>
 
-                <!--
     <dependency>
       <groupId>org.jbpm</groupId>
       <artifactId>jbpm-executor</artifactId>
       <version>6.1.0.Final</version>
     </dependency>
-
+    <!--
     <dependency>
       <groupId>org.jbpm</groupId>
       <artifactId>jbpm-runtime-manager</artifactId>
